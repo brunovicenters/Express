@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/brunovicenters/Express/issues"
   },
-  "homepage": "https://github.com/brunovicenters/Express#readme"
+  "homepage": "https://github.com/brunovicenters/Express#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
